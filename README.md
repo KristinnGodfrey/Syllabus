@@ -12,6 +12,11 @@ To install the dependencies, navigate to the project directory and execute these
 ```sh
 python3 -m venv /Users/Username/Environments/djangodev
 source !$/bin/activate
+```
+
+## How to run webserver
+Run webserver on port:8000
+```sh
 cd to mysite directory 
 python manage.py runserver
 ```
