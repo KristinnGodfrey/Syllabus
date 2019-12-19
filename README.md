@@ -1,7 +1,10 @@
 ## Creator
 * Kristinn Godfrey Guðnason (kgg16@hi.is)
 
-# How to the project
+##
+https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+
+# Project setup
 
 ## Prequisites to be able to run project
 You'll need to have:
