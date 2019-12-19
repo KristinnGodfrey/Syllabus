@@ -1,8 +1,5 @@
-## Creator
-* Kristinn Godfrey Guðnason (kgg16@hi.is)
-
-##
-https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+# Hello Django
+[Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the Django documentations. Tutorials 1-7
 
 # Project setup
 
