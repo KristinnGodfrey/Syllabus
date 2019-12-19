@@ -1,0 +1,10 @@
+SELECT name, Movie.length
+FROM MovieStar, Movie, StarsIn
+WHERE name = starName
+AND title = movieTitle
+GROUP BY name
+HAVING Movie.length >=
+(SELECT Movie.length
+FROM Movie, Movie, StarsIn
+WHERE name = starName
+AND title = movieTitle);

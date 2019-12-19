@@ -1,0 +1,10 @@
+SELECT MovieExec.name, COUNT(title), SUM(length)
+FROM MovieExec, Movie
+WHERE cert = ProducerC
+GROUP BY cert
+
+
+SELECT 
+FROM MovieExec, Movie
+WHERE producerC = cert
+
