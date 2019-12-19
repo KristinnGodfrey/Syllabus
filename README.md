@@ -6,14 +6,14 @@ You'll need to have:
 * Python installed
 * Django installed
 
-## How to activate virtual environment (Mac, Linux)
+## Activate virtual environment (Mac, Linux)
 Activate virtual environment
 ```sh
 python3 -m venv /Users/Username/Environments/djangodev
 source !$/bin/activate
 ```
 
-## How to run webserver
+## Run webserver
 Run webserver on port:8000
 ```sh
 cd to mysite directory 
@@ -27,7 +27,7 @@ python manage.py runserver
 deactivate
 ```
 
-## How to stop running webserver
+## Stop running the webserver
 Display processes running on port 8000 and kill PID:
 ```sh
 sudo lsof -i tcp:8000
