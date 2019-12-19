@@ -1,8 +1,6 @@
 # Hello Django
 [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the Django documentations. Tutorials 1-7
 
-# Project setup
-
 ## Prequisites to be able to run project
 You'll need to have:
 * Python installed
@@ -23,8 +21,6 @@ python manage.py runserver
 ```
 
 ---
-
-# How to terminate the project
 
 ## Deactivate djangodev virtual environment:
 ```sh
