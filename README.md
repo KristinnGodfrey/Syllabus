@@ -13,7 +13,7 @@ python3 -m venv /Users/Username/Environments/djangodev
 source !$/bin/activate
 ```
 
-## Run webserver
+## Run the webserver
 Run webserver on port:8000
 ```sh
 cd to mysite directory 
