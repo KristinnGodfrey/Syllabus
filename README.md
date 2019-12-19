@@ -1,7 +1,7 @@
-# Hello-Django
-
 ## Creator
 * Kristinn Godfrey Guðnason (kgg16@hi.is)
+
+# How to the project
 
 ## Prequisites to be able to run project
 You'll need to have:
@@ -21,6 +21,10 @@ Run webserver on port:8000
 cd to mysite directory 
 python manage.py runserver
 ```
+
+---
+
+# How to terminate the project
 
 ## Deactivate djangodev virtual environment:
 ```sh
