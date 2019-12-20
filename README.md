@@ -1,4 +1,4 @@
-# Hello Django
+# Syllabus
 [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the Django documentations. Tutorials 1-7
 
 ## Prequisites to be able to run project
