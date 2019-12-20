@@ -1,6 +1,46 @@
-li a {
-    color: green;
+.container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
 }
-body {
+
+.item {
+    width:600px;
+    background-color: cyan;   
+    margin-top: 20px;
+    padding: 10px 0;
+}
+.item:first-child {
+    margin-top: 0px; /* first child item container spans to top */
+}
+
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+ul {
+    text-align: center; /* li are centered */
+    margin-top: 10px;
+}
+
+li {
+    list-style: none; /* no bullet in list */
+    padding: 5px 0; /* top n' bottom 3px */
+}
+
+li:last-child{
+    padding: 0;
+}
+
+li a {
+    color: red;
+}
+
+body { 
     background: white url("images/background.gif") no-repeat;
+    background-size: cover;
 }
